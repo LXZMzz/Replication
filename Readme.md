@@ -17,8 +17,8 @@ Our datasets is based on [DeepCVA](https://github.com/lhmtriet/DeepCVA), and [FV
 After you download and unzip it, you should put the `commit-level.csv` and `function-level.csv` into the corresponding folders and rename it as `codereview_tokens_data.csv`
 
 **Experiments**:\
-For RQ 1-3, you can directly run the `python.py` in each folder. 
-For example, if you want to run commit-level experiments, you can go to commit folder and run `python.py`.
+For RQ 1-3, you can directly run the `main.py` in each folder. 
+For example, if you want to run function-level experiments, you can go to function folder and run `main.py`.
 In the `constant.py`, you can change the hyperparameter settings or change the model combinations.
 
 For RQ 4. In the `ablation`,you can change the `self.method` in the `constant.py` to mgda, nashmtl and so on to replicate our experiments.
