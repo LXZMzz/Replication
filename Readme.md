@@ -1,5 +1,5 @@
 # VAReviewer-2024
-**This is the Official Implementation of "VAReviewer：Vulnerability Assessment based on LLM with Conflict-Averse Multi-Task Learning"**
+**This is the Official Implementation of "Towards Task-Harmonious Vulnerability Assessment based on LLM"**
 
 For the impact of different learning rates and batch sizes we provide experiment results in `Impacts on learning rate and batch size` folder.
 
