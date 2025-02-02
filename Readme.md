@@ -139,7 +139,7 @@ Once you download and unzip the datasets, make sure to place the following files
 
 ## **Conclusion**
 
-This repository provides the official implementation of **VAReviewer-2024**, which proposes a novel task-harmonious approach for vulnerability assessment based on large language models (LLMs). By using fine-grained **program slicing**, harmonizing gradients, and filtering task-specific features, we have demonstrated significant improvements in both **commit-level** and **function-level** vulnerability detection tasks. We hope this implementation helps advance research in software security and vulnerability assessment.
+This repository provides the official implementation of **VAReviewer-2025**, which proposes a novel task-harmonious approach for vulnerability assessment based on large language models (LLMs). By using fine-grained **program slicing**, harmonizing gradients, and filtering task-specific features, we have demonstrated significant improvements in both **commit-level** and **function-level** vulnerability detection tasks. We hope this implementation helps advance research in software security and vulnerability assessment.
 
 
 
